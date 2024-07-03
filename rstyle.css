@@ -46,21 +46,21 @@ h1{
 
 }
 #rock{
-    background-image: url("A:/downloads/MYPORTFOLIO/stone paper game/stone.png");
+    background-image: url(./images/stone.png);
     background-size:cover;
     background-repeat:no-repeat;
     background-position: center;
     
 }
 #paper{
-    background-image: url("A:/downloads/MYPORTFOLIO/stone paper game/paper.png");
+    background-image: url(./images/paper.png);
     background-size:cover;
     background-repeat:no-repeat;
     background-position: center;
 
 }
 #scissor{
-    background-image: url("A:/downloads/MYPORTFOLIO/stone paper game/scissors.png");
+    background-image: url(./images/scissors.png);
     background-size :cover;
     background-repeat:no-repeat;
     background-position: center;
